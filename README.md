@@ -31,7 +31,6 @@ To create nice slugs, we are right now using [urlify](https://github.com/Gottox/
 This module provides basic usage example (speak: tests) to show, how to implement a slug generation and handling with
 mongoskin. Probably in the future we are building a framework from these ;-)
 
-
 ## LICENSE
 
 Copyright (c) 2013 Markus M. May
